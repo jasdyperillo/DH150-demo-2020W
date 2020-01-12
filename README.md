@@ -1,4 +1,4 @@
-# DH150-demo-2020W
+# DH150 Assignment 1:
 Jasdy Perillo 
 DH 150
 UID: 004971193
